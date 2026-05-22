@@ -1,0 +1,72 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Priya Sharma",
+    "date_of_birth": "1992-05-22",
+    "department": "Engineering",
+    "profile_status": "Online"
+  },
+  {
+    "employee_id": "E002",
+    "name": "Rahul Mehta",
+    "date_of_birth": "1988-03-15",
+    "department": "Marketing",
+    "profile_status": "Away"
+  },
+  {
+    "employee_id": "E003",
+    "name": "Aisha Bano",
+    "date_of_birth": "1995-07-22",
+    "department": "HR",
+    "profile_status": "Online"
+  },
+  {
+    "employee_id": "E004",
+    "name": "Vikram Singh",
+    "date_of_birth": "1990-11-08",
+    "department": "Sales",
+    "profile_status": "Offline"
+  },
+  {
+    "employee_id": "E005",
+    "name": "Neha Reddy",
+    "date_of_birth": "1993-05-22",
+    "department": "Design",
+    "profile_status": "Online"
+  },
+  {
+    "employee_id": "E006",
+    "name": "Suresh Kumar",
+    "date_of_birth": "1985-01-30",
+    "department": "Finance",
+    "profile_status": "Online"
+  },
+  {
+    "employee_id": "E007",
+    "name": "Divya Nair",
+    "date_of_birth": "1997-09-12",
+    "department": "Product",
+    "profile_status": "Away"
+  },
+  {
+    "employee_id": "E008",
+    "name": "Ankit Joshi",
+    "date_of_birth": "1991-12-05",
+    "department": "Engineering",
+    "profile_status": "Online"
+  },
+  {
+    "employee_id": "E009",
+    "name": "Meera Iyer",
+    "date_of_birth": "1994-06-18",
+    "department": "Operations",
+    "profile_status": "Offline"
+  },
+  {
+    "employee_id": "E010",
+    "name": "Ravi Teja",
+    "date_of_birth": "1989-02-14",
+    "department": "Sales",
+    "profile_status": "Online"
+  }
+]
